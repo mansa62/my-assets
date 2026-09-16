@@ -13,7 +13,7 @@ C:\Users\Administrator\my-assets
 git add .
 
 
-git commit -m "mard2.glb image"
+git commit -m "room.png image"
 git commit -m "add 3D character model: mard2.glb"
 
 
