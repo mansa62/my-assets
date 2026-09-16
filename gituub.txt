@@ -1,0 +1,57 @@
+چرا در گیت هاب باید بزاریم
+چون سرویس های اپلود ایرانی برای افراد خارج ایران عمل نمیکنه
+و اگه همکار خارجی داشته باشی اون عکسها رو نمیبینه
+-------------------------------------------------
+aval ax ha ra dar in adress gharar midahid
+C:\Users\Administrator\my-assets
+کپی کردن: عکس جدیدت رو کپی کن و در همان پوشه‌ی C:\Users\Administrator\my-assets پیست (Paste) کن.
+
+۲. باز کردن ترمینال: در همان پوشه، ترمینال رو باز کن.
+
+۳. سه دستورِ همیشگی رو بزن:
+
+git add .
+
+
+git commit -m "mard2.glb image"
+git commit -m "add 3D character model: mard2.glb"
+
+
+git push
+
+بعد به انتهای این لینک ثابت نام عکس رااضافه کن و در پروژه بزار
+
+https://raw.githubusercontent.com/mansa62/my-assets/main/my-logo.png
+-------------------
+برای حذف 
+git rm mansa.png
+git commit -m "remove mansa.png"
+git push origin main
+=======================================
+
+mansa
+https://raw.githubusercontent.com/mansa62/my-assets/main/mansa.png
+https://raw.githubusercontent.com/mansa62/my-assets/main/mansa2.png
+
+shadman
+https://raw.githubusercontent.com/mansa62/my-assets/main/shadman.png
+https://raw.githubusercontent.com/mansa62/my-assets/main/shadman2.png
+
+vincenzo
+https://raw.githubusercontent.com/mansa62/my-assets/main/vincenzo.png
+https://raw.githubusercontent.com/mansa62/my-assets/main/vincenzo2.png
+
+popok
+
+https://raw.githubusercontent.com/mansa62/my-assets/main/popok.png
+https://raw.githubusercontent.com/mansa62/my-assets/main/popok2.png
+
+setin
+
+https://raw.githubusercontent.com/mansa62/my-assets/main/setin.png
+https://raw.githubusercontent.com/mansa62/my-assets/main/setin2.png
+
+andy
+
+https://raw.githubusercontent.com/mansa62/my-assets/main/andy.png
+https://raw.githubusercontent.com/mansa62/my-assets/main/andy2.png
